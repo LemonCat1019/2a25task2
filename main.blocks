@@ -1,0 +1,73 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_print_message" id="dh~.x=hoJQxSXdEFL7lA" disabled="true" x="312" y="-338"><value name="text"><shadow type="text" id="{XEl^/g4Y7x2Qdd/WGpf" disabled="true"><field name="TEXT">2A25 ngan ling fung</field></shadow></value></block><block type="device_print_message" id="Wa,vzfK#h(%ZPt$J`cNv" disabled="true" x="363" y="-240"><value name="text"><shadow type="text" id="y-9:VUpZT$RsJ,u[O~^Z" disabled="true"><field name="TEXT">breaking</field></shadow></value></block><block type="device_button_event" id="o;d8A3eRvF7xS9yhJWfA" x="802" y="-167"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_while" id="b=ROCf]ZTXs43Bk/`^z_"><value name="COND"><shadow type="logic_boolean" id="BuCQV^q*azL-NJt7kt$3"><field name="BOOL">TRUE</field></shadow></value><statement name="DO"><block type="device_show_leds" id="WG5(d,R+xu$@@ixBPYMM"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="p-+-q6s_E1{t#rk%2$Bf"><field name="LEDS">`
+        . # . . . 
+        . # . . . 
+        . . # . . 
+        . . . # . 
+        . . . # .
+        `</field><next><block type="device_show_leds" id="ocnFI0]d%@w6l8$c-n!H"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        . . # . . 
+        . . . . # 
+        . . . . #
+        `</field><next><block type="device_show_leds" id="3(}3Joj$YcDpyXj,v4}_"><field name="LEDS">`
+        . . . . # 
+        . . . . # 
+        . . # . . 
+        # . . . . 
+        # . . . .
+        `</field><next><block type="device_show_leds" id="T#7t8fCntwc[-YO_;^mu"><field name="LEDS">`
+        . . . # . 
+        . . . # . 
+        . . # . . 
+        . # . . . 
+        . # . . .
+        `</field><next><block type="device_show_leds" id="Xaap*Q;X~@]-uL+^`@ml"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="=!C*f0cNNxe+isoLyG.S"><value name="pause"><shadow type="timePicker" id="XB2?m=L8XzyfW=7-bIFv"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block><block type="pxt-on-start" id="(;w.Zg4$CjimE[mqcQ)A" x="0" y="0"></block><block type="device_button_event" id="|+{ErVsYq-Q|1^+.5r|D" x="433" y="-1"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_while" id="gjE)zAUZtD%m6Va.9qK?"><value name="COND"><shadow type="logic_boolean" id="3vyT:3i$W=8ubR=Qmf^V"><field name="BOOL">TRUE</field></shadow></value><statement name="DO"><block type="device_show_leds" id="I/6S=Ok$NeBGt@1j^[,4"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="|cPdL2]a5Es4MfnK%FhW"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="H^}-S/+t!0-MIJ%ptq#B"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="?djs~Ox.;%^!4Jcf:D,w"><field name="LEDS">`
+        . # . # . 
+        # . . . # 
+        . . . . . 
+        # . . . # 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="79s^EXrFiz=:|]C8RI3Y"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="2)@q[P-gj*3{3:9LV.o9"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="NN=6eG~S9Idu~R9:8wPu"><value name="pause"><shadow type="timePicker" id="@r:3{n~U3v$yiRit?N}~"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block></xml>
